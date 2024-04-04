@@ -1,0 +1,14 @@
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\bin\Debug\net8.0\TP-DotNet-2.exe
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\bin\Debug\net8.0\TP-DotNet-2.deps.json
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\bin\Debug\net8.0\TP-DotNet-2.runtimeconfig.json
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\bin\Debug\net8.0\TP-DotNet-2.dll
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\bin\Debug\net8.0\TP-DotNet-2.pdb
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.AssemblyInfoInputs.cache
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.AssemblyInfo.cs
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.csproj.CoreCompileInputs.cache
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.dll
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\refint\TP-DotNet-2.dll
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.pdb
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\TP-DotNet-2.genruntimeconfig.cache
+C:\Users\const\OneDrive\Bureau\TP-DotNet-2\obj\Debug\net8.0\ref\TP-DotNet-2.dll
